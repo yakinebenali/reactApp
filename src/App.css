@@ -1,0 +1,35 @@
+#Cm1{position: relative;
+  border: solid black;
+  width: 100vw;
+  height: 700px;
+ text-align: center;
+
+  }
+  
+#Cm2{
+    position: relative;
+    border: solid black;
+    width: 100vw;
+    height:140px;
+    
+    bottom: 702px;
+    text-align: center;
+}
+#Cm3{
+  position: relative;
+  border:  solid black;
+  width: 15vw;
+  height: 550px;
+  
+  bottom: 702px;
+  text-align: center;
+}
+#Cm4{
+  position: relative;
+  border: solid black;
+  width: 85vw;
+  height:145px;
+  left:228px;
+  bottom: 857px;
+  text-align: center;
+}
