@@ -10,7 +10,7 @@ function App() {
     <div id="d ">
      
        <div id="Cm1">  
-          <Comp1></Comp1>
+       
         
        </div>
         <div> 
